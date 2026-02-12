@@ -1,0 +1,12 @@
+{
+  "name": "adam-aira-v2-tg-pro",
+  "version": "1.2.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.16.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
+
